@@ -114,6 +114,4 @@ http://127.0.0.1:5000/
 - Add analytics page template to support `/analytics`
 - Containerize app with Docker for easy deployment
 
-## Author
 
-Amar Patil
